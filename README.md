@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/go-gsm/charset.svg?branch=master)](https://travis-ci.org/go-gsm/charset) [![GoDoc](https://godoc.org/github.com/go-gsm/charset?status.svg)](https://godoc.org/github.com/go-gsm/charset)
+
 charset
 =======
 
